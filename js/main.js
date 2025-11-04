@@ -34,3 +34,4 @@ function listItemHandler(event) {
     alert(`you choose object ${event.target.innerText}`);
 }
 list.addEventListener('click', listItemHandler)
+// 
